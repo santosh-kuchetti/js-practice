@@ -1,0 +1,12 @@
+{
+  "name": "js_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "closures.js",
+  "scripts": {
+    "start": "nodemon closures.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
